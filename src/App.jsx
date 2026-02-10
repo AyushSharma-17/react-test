@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div>hello
-        <Header />                       header component imported here
+        <Header />                     //  header component imported here
         <h1>hello</h1>
         <h1>{sum()}  sum function imported here</h1>
       </div>
